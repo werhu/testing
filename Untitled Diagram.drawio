@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T03:45:00.048Z" agent="5.0 (Windows)" etag="-0hViwjXXMNat31gTKp-" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T03:48:09.010Z" agent="5.0 (Windows)" etag="-OjHedOaEuE2KLTCG05N" version="14.0.4" type="github">
   <diagram id="NKrHC1Vq9-FHjv0NOqId" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,11 +66,14 @@
         <mxCell id="ACOiJYbCPpkXWS_Ykj_x-15" value="Mass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ACOiJYbCPpkXWS_Ykj_x-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ACOiJYbCPpkXWS_Ykj_x-16" target="ACOiJYbCPpkXWS_Ykj_x-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ACOiJYbCPpkXWS_Ykj_x-16" value="Volume" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ACOiJYbCPpkXWS_Ykj_x-17" value="&lt;div&gt;Metric&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ACOiJYbCPpkXWS_Ykj_x-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ACOiJYbCPpkXWS_Ykj_x-19" target="ACOiJYbCPpkXWS_Ykj_x-20">
           <mxGeometry relative="1" as="geometry" />
@@ -79,10 +82,10 @@
           <mxGeometry x="220" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ACOiJYbCPpkXWS_Ykj_x-20" value="&lt;div&gt;Imperial&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="400" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ACOiJYbCPpkXWS_Ykj_x-21" value="Celsius" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ACOiJYbCPpkXWS_Ykj_x-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ACOiJYbCPpkXWS_Ykj_x-23" target="ACOiJYbCPpkXWS_Ykj_x-24">
           <mxGeometry relative="1" as="geometry" />
@@ -91,7 +94,22 @@
           <mxGeometry x="540" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ACOiJYbCPpkXWS_Ykj_x-24" value="lbs or kg" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ACOiJYbCPpkXWS_Ykj_x-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ACOiJYbCPpkXWS_Ykj_x-27" target="ACOiJYbCPpkXWS_Ykj_x-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACOiJYbCPpkXWS_Ykj_x-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ACOiJYbCPpkXWS_Ykj_x-27" target="ACOiJYbCPpkXWS_Ykj_x-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACOiJYbCPpkXWS_Ykj_x-27" value="Is it a fast food drink?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ACOiJYbCPpkXWS_Ykj_x-29" value="&lt;div&gt;oz.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="300" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ACOiJYbCPpkXWS_Ykj_x-33" value="Is it for cooking?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="400" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
